@@ -1,4 +1,3 @@
-Voyager's Fate
 
 Introduction:
 Welcome to Voyager's Fate, an enthralling text-based adventure game that invites players to embark on an epic journey filled with mystery, exploration, and discovery. In this captivating tale, players will navigate through a richly crafted world, make crucial decisions, and ultimately determine their destiny.
