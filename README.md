@@ -14,9 +14,9 @@ Dynamic World: Explore a vibrant and ever-changing world filled with surprises a
 
 How to Play:
 
-1->On the main repository page, click the green Code button.
-2->In the menu that appears, click Download ZIP.
-3->Download the game files and extract them to your desired location.   
+1->On the main repository page, click the green Code button.   
+2->In the menu that appears, click Download ZIP.   
+3->Download the game files and extract them to your desired location.      
 3.1->Run the executable (exe) file .If it does not run follow below guidelines.   
 4->Open the terminal or command prompt and navigate to the game directory.   
 5->Compile the source code using your preferred C compiler.   
